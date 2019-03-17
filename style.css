@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
-.p1,.p2 {
-  display:inline;
-  padding:5px;
-  margin:0;
+
+img .border-1 {
+  display: inline;
 }
 
 ul {
