@@ -4,8 +4,9 @@
 
 img .border-1 {
   display: inline;
+  padding:5px;
 }
 
-ul {
+ul li {
   list-style-type:none;
 }
