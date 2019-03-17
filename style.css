@@ -7,6 +7,11 @@ img .border-1 {
   padding:5px;
 }
 
+img .border-2 {
+  display: inline;
+  padding:5px;
+}
 ul li {
   list-style-type:none;
+  list-style-type: none;
 }
