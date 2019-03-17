@@ -3,12 +3,13 @@
 
 section img {
   padding:15px;
-  display:inline;
+  
 }
 
 .border-1,.border-2 {
   background-color: white;
   border:1px solid black;
+  width:100px;
   overflow-x: scroll;
   overflow-y: hidden;
 }
