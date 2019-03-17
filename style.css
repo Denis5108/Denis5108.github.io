@@ -9,8 +9,9 @@ img .border-1, .border-2 {
 
 }
 
-div .border-1, .border-2 {
+div .border-1 {
   overflow-x: scroll;
+  border: 1px solid black;
 }
 
 ul li {
