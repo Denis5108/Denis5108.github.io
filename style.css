@@ -2,14 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 
-img .border-1 {
+img .border-1, .border-2 {
   display: inline;
   padding:5px;
-}
-
-img .border-2 {
-  display: inline;
-  padding:5px;
+  overflow-x: scroll;
 }
 ul li {
   list-style-type:none;
