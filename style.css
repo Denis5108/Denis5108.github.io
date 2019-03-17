@@ -3,6 +3,7 @@
 
 
 img .border-1, .border-2 {
+  padding:2px solid darkgray;
   display: inline;
   padding:5px;
   overflow-x: scroll;
