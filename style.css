@@ -13,7 +13,7 @@ section img {
   overflow-y: hidden;
 }
 
-ul li {
+ul li, a {
   list-style-type:none;
   text-decoration: none;
 }
