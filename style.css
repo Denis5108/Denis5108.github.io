@@ -9,7 +9,7 @@ img .border-1, .border-2 {
 
 }
 
-.border-1 {
+div .border-1 {
   background-color: blue;
   max-width: 50%;
 }
