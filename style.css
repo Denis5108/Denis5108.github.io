@@ -3,6 +3,7 @@
 div img {
   display:inline;
   padding:35px;
+  max-width:50%;
 }
 .border-1,.border-2 {
   background-color: white;
@@ -16,6 +17,7 @@ section .border-1{
 ul li, a {
   list-style-type:none;
   text-decoration: none;
+  display:inline;
 }
 
 .col {
