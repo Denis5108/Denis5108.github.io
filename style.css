@@ -1,22 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
-
-section img {
-  padding:15px;
-  object-fit:cover;
+div img {
+  display:inline;
+  padding:35px;
 }
-
 .border-1,.border-2 {
   background-color: white;
-  border:1px solid black;
-  width:40px;
-  overflow-x: scroll;
-  overflow-y: hidden;
+}
+section .border-1{
+   border:1px solid gray;
+   padding:5px;
+   background-color:white;
 }
 
 ul li, a {
   list-style-type:none;
   text-decoration: none;
-  padding:6px;
-  display:inline;
+}
+
+.col {
+  margin:12px;
+  border:1px solid gray;
+}
+ul
+  margin: 0px;
+  background-color:darkgray;
 }
