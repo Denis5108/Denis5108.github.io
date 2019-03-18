@@ -3,7 +3,7 @@
 
 section img {
   padding:15px;
-
+  object-fit:cover;
 }
 
 .border-1,.border-2 {
